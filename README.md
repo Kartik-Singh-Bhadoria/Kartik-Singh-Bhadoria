@@ -15,3 +15,8 @@
 - Basics of Machine Learning  
 - Game Development concepts  
   
+## 📊 GitHub Stats
+
+![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik-Singh-Bhadoria&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Singh-Bhadoria&layout=compact&theme=radical)

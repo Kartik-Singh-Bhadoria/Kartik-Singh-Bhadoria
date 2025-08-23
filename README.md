@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kartik Singh  
 
-🎓 B.Tech CSE (AI & ML) student @ BVCOE, New Delhi  
+🎓 B.Tech CSE (AI & ML) student  
 🚀 I love building small projects that bring ideas to life  
 
 ## 🔧 Tech Stack

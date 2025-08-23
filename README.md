@@ -4,9 +4,10 @@
 🚀 I love building small projects that bring ideas to life  
 
 ## 🔧 Tech Stack
-- Languages: Python, C++, JAVA 
+- Languages: Python, C++,  
 - Libraries/Tools: Tkinter, Pillow, VPyhton  
-- Interests: AI, ML, Game Development, Open Source  
+- Interests: AI, ML, Game Development, Open Source
+- Databases: MySQL  
   
 
 ## 🌱 Currently Learning

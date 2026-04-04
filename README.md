@@ -17,5 +17,5 @@
   
 ## 📊 GitHub Stats
 
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik-Singh-Bhadoria&show_icons=true&theme=tokyonight)
+![Kartik's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kartik-Singh-Bhadoria&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Singh-Bhadoria&layout=compact&theme=radical)

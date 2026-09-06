@@ -4,16 +4,13 @@
 🚀 I love building small projects that bring ideas to life  
 
 ## 🔧 Tech Stack
-- Languages: Python, C++,  
+- Languages: Python, C++, JavaScript, Typescript 
 - Libraries/Tools: Tkinter, Pillow, VPyhton  
 - Interests: AI, ML, Game Development, Open Source
-- Databases: MySQL  
-  
-
-## 🌱 Currently Learning
-- Data Structures & Algorithms (C++)  
-- Basics of Machine Learning  
-- Game Development concepts  
+- Databases: MySQL
+- Backend: Node.js, Express.js, FastAPI
+- Frontend: - React
+   
   
 ## 📊 GitHub Stats
 

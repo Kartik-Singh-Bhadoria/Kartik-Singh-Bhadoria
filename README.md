@@ -20,9 +20,6 @@
 ## 🔁 Fallback / Additional Widgets
 If the main stats service is unavailable, these alternative widgets should still render and make your profile look good.
 
-- Contribution graph (heatmap):
-
-  ![GitHub Chart](https://ghchart.rshah.org/Kartik-Singh-Bhadoria)
 
 - Profile summary card:
 

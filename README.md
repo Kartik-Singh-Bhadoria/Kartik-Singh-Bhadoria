@@ -17,6 +17,7 @@
 
 ### 👋 About Me
 
+- 🎓 2nd year B.Tech CSE (AI & ML) student
 - 🚀 I like turning small ideas into working projects — games, tools, whatever sticks
 - 🌱 Currently deep in AI/ML, game dev, and open source
 - ⚡ Always down to learn a new stack if the project needs it
@@ -25,34 +26,45 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-
-**Frontend & Backend**
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-
-**Database & Tools**
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pillow-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/VPython-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-**Interest Areas**
-
-<img src="https://img.shields.io/badge/AI-6a11cb?style=flat-square" />
-<img src="https://img.shields.io/badge/Machine%20Learning-6a11cb?style=flat-square" />
-<img src="https://img.shields.io/badge/Game%20Development-e6438b?style=flat-square" />
-<img src="https://img.shields.io/badge/Open%20Source-2c5364?style=flat-square" />
+<table>
+<tr>
+<td valign="top" width="16%"><b>Languages</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Frontend & Backend</b></td>
+<td>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Database & Tools</b></td>
+<td>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pillow-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPython-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Interests</b></td>
+<td>
+  <img src="https://img.shields.io/badge/AI-6a11cb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-6a11cb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Game%20Development-e6438b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-2c5364?style=flat-square" />
+</td>
+</tr>
+</table>
 
 <br>
 

@@ -1,36 +1,57 @@
-# Hi there 👋, I'm Kartik Singh  
+<div align="center">
 
-🎓 B.Tech CSE (AI & ML) student  
-🚀 I love building small projects that bring ideas to life  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:e6438b&height=220&section=header&text=Kartik%20Singh&fontSize=60&fontColor=1a1a1a&fontAlignY=38&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20Building%20small%20projects%20that%20bring%20ideas%20to%20life&descAlignY=58&descColor=1a1a1a&descSize=18" width="100%"/>
 
-## 🔧 Tech Stack
-- Languages: Python, C++, JavaScript, Typescript 
-- Libraries/Tools: Tkinter, Pillow, VPyhton  
-- Interests: AI, ML, Game Development, Open Source
-- Databases: MySQL
-- Backend: Node.js, Express.js, FastAPI
-- Frontend: - React
-   
-   
+</div>
+
+<br>
+
+## 🧠 What's Actually In My Head
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,nodejs,express,fastapi,mysql,react,git,github&theme=dark" />
+</p>
+
+<details>
+<summary>📂 Full stack, in detail (click to expand)</summary>
+<br>
+
+| Category | Stack |
+|---|---|
+| **Languages** | Python, C++, JavaScript, TypeScript |
+| **Libraries / Tools** | Tkinter, Pillow, VPython |
+| **Frontend** | React |
+| **Backend** | Node.js, Express.js, FastAPI |
+| **Databases** | MySQL |
+| **Interests** | AI, ML, Game Development, Open Source |
+
+</details>
+
+<br>
+
 ## 📊 GitHub Stats
 
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik-Singh-Bhadoria&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Kartik-Singh-Bhadoria&layout=compact&theme=radical)
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kartik-Singh-Bhadoria&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Singh-Bhadoria&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## 🔁 Fallback / Additional Widgets
-If the main stats service is unavailable, these alternative widgets should still render and make your profile look good.
+<details>
+<summary>🔁 Fallback / additional widgets</summary>
+<br>
 
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kartik-Singh-Bhadoria&theme=tokyonight" />
+</p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kartik-Singh-Bhadoria&theme=tokyonight&no-frame=true&row=1" />
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Kartik-Singh-Bhadoria&theme=tokyonight&hide_border=true" />
+</p>
 
-- Profile summary card:
+</details>
 
-  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kartik-Singh-Bhadoria&theme=default)
+<br>
 
-- Achievement trophies:
-
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Kartik-Singh-Bhadoria&theme=onedark)
-
-- Streak stats (contributions consistency):
-
-  ![Streaks](https://streak-stats.demolab.com/?user=Kartik-Singh-Bhadoria)
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:e6438b&height=100&section=footer" width="100%"/>
